@@ -1,0 +1,11 @@
+{
+  "name": "db2ds",
+  "connector": "db2",
+  "host": "the ip address",
+  "port": 50000,
+  "user": "db2inst1",
+  "password": "your password",
+  "database": "testdb",
+  "schema": "db2inst1"
+}
+
